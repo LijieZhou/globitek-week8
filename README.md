@@ -37,6 +37,7 @@ http://i.imgur.com/HhqdV19.gif
 
 Vulnerability #2: Cross-Site Request Forgery
 
+Followed by this guide: https://www.owasp.org/index.php/Testing_for_CSRF_(OTG-SESS-005)
 This one, I used postman to fire the POST request. After logging in as admin, I fired the POST request with the body of the following(see notes), however, I didn't see salespeople(id=7)'s info got editted. 
 
 
